@@ -1,0 +1,18 @@
+# Moodle runtime files
+config.php
+.htaccess
+/cache/
+/localcache/
+/temp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
