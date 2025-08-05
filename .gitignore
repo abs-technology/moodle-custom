@@ -1,5 +1,4 @@
 # Moodle runtime files
-config.php
 .htaccess
 /cache/
 /localcache/

@@ -31,5 +31,6 @@
 ---
 
 <div align="center">
-<sub>Built with ❤️ by ABS Technology</sub>
+<sub><strong>Built with ❤️ by ABS Technology for the global education community</strong></sub><br/>
+<sub>Licensed under <a href="https://github.com/abs-technology/moodle/blob/main/LICENSE">GPL v3.0</a> • <a href="https://abs.education">abs.education</a> • <a href="mailto:billnguyen@absi.edu.vn">Contact Us</a></sub>
 </div>
